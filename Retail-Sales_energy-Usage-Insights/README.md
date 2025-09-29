@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/3378e07f-fcec-4a89-b0be-ba3d9751aeb0
 
 ### Retail Sales Analysis (Power BI)
 Developed Power BI dashboards for sales forecasting and customer segmentation, using DAX and ETL workflows to support data-driven retail decision-making.  
-[View Project](Retail-Sales/)
+
 
 ### Social Network Analysis (Neo4j, Python, Plot.ly<img width="1321" height="821" alt="Screenshot 2025-07-03 011745" src="https://github.com/user-attachments/assets/a5696052-2356-4256-a475-1f09e29093a2" />
 )
