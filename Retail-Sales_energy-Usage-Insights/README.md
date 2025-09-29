@@ -20,13 +20,12 @@ enabling actionable insights through KPIs, time-series analysis, and dynamic fil
 • Impact: Conducted data cleaning and segmentation of retail energy datasets, building Power BI dashboards to highlight consumption
 patterns across industries and improve KPI reporting and variance analysis.
 
+<img width="1321" height="821" alt="Screenshot 2025-07-03 011745" src="https://github.com/user-attachments/assets/df051add-ecec-4273-a8af-644f11217e34" />
+
 
 ### Social Network Analysis 
 Project: Interactive Linkedin tree map for network analysis
 • Impact: Designed a LinkedIn Tree Map to clearly show how people in a network are connected, helping identify key relationships and
 patterns using Python and Plotly to visualize and analyze personal and criminal networks using LinkedIn data.
-
-<img width="1321" height="821" alt="Screenshot 2025-07-03 011745" src="https://github.com/user-attachments/assets/a5696052-2356-4256-a475-1f09e29093a2" />
-
 
 https://github.com/user-attachments/assets/349deb5d-bffd-4940-b33e-e5e6c4849197
