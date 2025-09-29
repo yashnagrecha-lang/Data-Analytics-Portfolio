@@ -6,7 +6,15 @@ This portfolio showcases selected projects demonstrating my skills in data analy
 
 ### Patent Data Analysis (Tableau)
 Designed interactive Tableau dashboards to visualise global patent application and grant trends, enabling insights into innovation activity across regions and industries.  
-[View Project](Patent-Analysis/)
+[View
+
+https://github.com/user-attachments/assets/3378e07f-fcec-4a89-b0be-ba3d9751aeb0
+
+
+
+https://github.com/user-attachments/assets/349deb5d-bffd-4940-b33e-e5e6c4849197
+
+ Project](Patent-Analysis/)
 
 ### Retail Sales Analysis (Power BI)
 Developed Power BI dashboards for sales forecasting and customer segmentation, using DAX and ETL workflows to support data-driven retail decision-making.  
