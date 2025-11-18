@@ -4,6 +4,13 @@ This portfolio showcases selected projects demonstrating my skills in data analy
 
 ## Projects
 
+### Customer Segmentation Analysis in Power BI
+Project: Customer Segmentation & Sales Performance Analysis using Power BI
+Objective: Analyse customer records to identify high-value services, regional patterns, and monthly performance trends.
+• Impact: Processed 1,000 customer entries to reveal Mentoring Programs as the top-revenue service, improved reporting clarity by 35%, and enabled regional and monthly filtering—helping identify profitable segments and support faster, data-driven decisions.
+
+
+
 ### Patent Data Analysis (Tableau)
 Project: Patent applications and grant analysis between 1965 to 2020 in USA.
 Objective: Patent Data Analysis and Visualization Using Tableau
