@@ -9,7 +9,9 @@ Project: Customer Segmentation & Sales Performance Analysis using Power BI
 Objective: Analyse customer records to identify high-value services, regional patterns, and monthly performance trends.
 • Impact: Processed 1,000 customer entries to reveal Mentoring Programs as the top-revenue service, improved reporting clarity by 35%, and enabled regional and monthly filtering—helping identify profitable segments and support faster, data-driven decisions.
 
-https://github.com/yashnagrecha-lang/Data-Analytics-Portfolio/blob/main/Screenshot%202025-11-12%20153821.png
+<img width="1918" height="977" alt="Image" src="https://github.com/user-attachments/assets/191d75ab-812b-4f90-9fcf-276706a18962" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d348829e-7c94-4ca2-9c9d-f27c756ba52e" />
+
 
 
 ### Patent Data Analysis (Tableau)
