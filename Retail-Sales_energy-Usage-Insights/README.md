@@ -27,7 +27,7 @@ patterns and opportunities for improvement.
 
 https://github.com/user-attachments/assets/3378e07f-fcec-4a89-b0be-ba3d9751aeb0
 
-### Retail Sales Analysis (Power BI)
+### Energy Usage Analysis (Power BI)
 Project: An interactive Power BI dashboard examining simulated retail energy data across sectors such as Manufacturing, Retail, Hospitality,
 Tech, and Healthcare. Highlights customer energy usage trends, billing performance, and segmentation by region, business type, and tariff —
 enabling actionable insights through KPIs, time-series analysis, and dynamic filtering.
